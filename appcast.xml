@@ -3,14 +3,14 @@
     <channel>
         <title>轻量截图</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Mon, 16 Nov 2026 16:50:13 +0800</pubDate>
+            <title>1.0.2</title>
+            <pubDate>Mon, 16 Nov 2026 20:16:10 +0800</pubDate>
             <link>https://github.com/qlmac/QuickLightScreenshot</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/qlmac/QuickLightScreenshot/releases/download/v1.0.1-2/QuickLightScreenshot-1.0.1-2-Universal.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/qlmac/QuickLightScreenshot/releases/download/v1.0.1-2/QuickLightScreenshot-1.0.1-2-Universal.zip" length="9778282" type="application/octet-stream" sparkle:edSignature="CqnDS32/P7wHq3FI5AGRCGNRAEiHktwp8iim9H73a9bMkWTyHQw78qXM6QJy2UDSpsll/4vd6Wlo13nwIw4ZDg=="/>
+            <sparkle:releaseNotesLink>https://github.com/qlmac/QuickLightScreenshot/releases/download/v1.0.2-3/QuickLightScreenshot-1.0.2-3-Universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/qlmac/QuickLightScreenshot/releases/download/v1.0.2-3/QuickLightScreenshot-1.0.2-3-Universal.zip" length="9824585" type="application/octet-stream" sparkle:edSignature="zan2zchVV+1A+GYQ4qsQlG/PNfL9GCMYRK5nt+jIwDfVpdpvnGrHQ81xDw4qEGqrnV8CutPzwYbzT1vsNhgTAg=="/>
         </item>
     </channel>
 </rss>
